@@ -1,4 +1,4 @@
-# CCC-2002-BlindFold
+# CCC-2002-BlindFold (S3)
 
 Problem URL:
     https://dmoj.ca/problem/ccc02s3
